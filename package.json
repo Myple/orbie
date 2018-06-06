@@ -1,14 +1,14 @@
 {
-  "name": "sphero-v2",
+  "name": "orbie",
   "version": "0.1.0",
   "main": "index.js",
-  "description": "sphero-v2, a fork from the official Orbotix JavaScript SDK to control Sphero robots",
-  "homepage": "http://www.sphero.com/",
-  "bugs": "https://github.com/wesselperik/sphero-v2/issues",
+  "description": "orbie - a fork from the official Orbotix JavaScript SDK to control Sphero robots",
+  "homepage": "https://github.com/wesselperik/orbie",
+  "bugs": "https://github.com/wesselperik/orbie/issues",
   "author": "Wessel Perik/Thymo van Beers",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wesselperik/sphero-v2"
+    "url": "https://github.com/wesselperik/orbie"
   },
   "license": "MIT",
   "keywords": [
