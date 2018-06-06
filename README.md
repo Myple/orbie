@@ -1,4 +1,4 @@
-# sphero-v2
+# orbie
 
 A fork from the [official Sphero.js-project](https://github.com/orbotix/sphero.js) by Orbotix.
 
