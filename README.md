@@ -1,8 +1,6 @@
-# Sphero.js
+# sphero-v2
 
-The official Orbotix JavaScript SDK module to programmatically control Sphero robots.
-
-[![Build Status](https://travis-ci.org/orbotix/sphero.js.svg?branch=master)](https://travis-ci.org/orbotix/sphero.js) [![Code Climate](https://codeclimate.com/github/orbotix/sphero.js/badges/gpa.svg)](https://codeclimate.com/github/orbotix/sphero.js) [![Test Coverage](https://codeclimate.com/github/orbotix/sphero.js/badges/coverage.svg)](https://codeclimate.com/github/orbotix/sphero.js/coverage)
+A fork from the [official Sphero.js-project](https://github.com/orbotix/sphero.js) by Orbotix.
 
 ## Usage
 
